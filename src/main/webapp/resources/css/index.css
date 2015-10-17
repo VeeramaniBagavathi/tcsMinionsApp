@@ -1,0 +1,20 @@
+html {    font-family: GillSans, Calibri, Trebuchet, sans-serif;  }
+body{ background-color:#ef4f69; padding-top:20px;}
+.sp-screen{position:absolute; top:40%; left:20%; display:block;width:100%;}
+.sp-screen div{ margin:0px; padding:0px; position:absolute; top:60px; width:100%; font-size:20px; }
+.sp-screen span{position:relative; top:-15px;font-weight:600; font-size:30px; color:#fff;}
+.sp-refresh{ height:50px;  position:absolute; bottom:0; width:100%; display:block;}
+#calendar{width:90%; background-color:#F5D561;}
+.chip{    display: inline-block;
+    height: 32px;
+    font-size: 13px;
+    font-weight: 500;
+    color: rgba(0,0,0,0.6);
+    line-height: 32px;
+    border-radius:1px;
+    background-color: #ef4f69;
+    width: 49%;
+    text-align: center; margin-top:5px; color:#fff;}
+	
+.refine{display:block;}
+.bestoffer{ margin-top:10px; height:300px;}
